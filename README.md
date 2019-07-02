@@ -8,6 +8,7 @@
 <div class="otp" id="no-index">
 	
 ### On this Page
+* Is this a live update?
 * [Beta Limitations](#multi-currency_beta-limitations)
 * [Setup Multi Currency](#multi-currency_setup)
 * [Display & Transactional Currencies](#multi-currency_currency)
